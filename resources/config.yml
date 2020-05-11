@@ -1,0 +1,13 @@
+precobroca1: 10000
+precobroca2: 20000
+precobroca3: 30000
+precocombustivel1: 10000
+precocombustivel2: 20000
+precocombustivel3: 30000
+precomelhoria1: 50000
+precomelhoria2: 100000
+precomelhoria3: 150000
+precoremover: 100000
+
+porcentagemdescontovip: 20
+descontovip: false
